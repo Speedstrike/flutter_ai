@@ -7,4 +7,5 @@ ios/** linguist-vendored
 macos/** linguist-vendored
 windows/** linguist-vendored
 linux/** linguist-vendored
+web/** linguist-vendored
 build/** linguist-generated
